@@ -1,0 +1,36 @@
+网易严选商城(vue全家桶)
+https://www.bilibili.com/video/av88732281?p=51
+
+vue项目,Vue旅游网项目
+https://www.bilibili.com/video/BV1ik4y1174T?from=search&seid=16124223274768113904
+
+尚硅谷Vue实战教程(企业级vue项目，Vue项目硅谷外卖)(含短信验证)
+https://www.bilibili.com/video/BV1Lp411d7w4?from=search&seid=16124223274768113904
+
+Vue全家桶实战 从零独立开发企业级电商系统
+https://www.acfun.cn/v/ac14597441
+
+uniapp
+Vueuni-APP小程序多端(包括上线)
+https://www.acfun.cn/v/ac14641836_174
+uniapp 项目实战到上线(包括上线)
+https://www.bilibili.com/video/BV16z4y1Q7XU?p=1
+
+2020全新项目-毕业设计-前端-uni app实战项目【黑马程序员】（配源码+笔记）
+https://www.bilibili.com/video/BV1Rj411f7iY?from=search&seid=14538785774954331518
+
+原生微信小程序
+https://www.bilibili.com/video/BV1y7411z7hQ/?spm_id_from=333.788.videocard.11
+
+全栈之巅(最好用,最全面)
+[第一章 + 第二章] NodeJs + VueJs (Express + ElementUI) 全栈开发王者荣耀手机端官网和管理后台
+https://www.bilibili.com/video/BV1A4411Y7fi/?spm_id_from=333.788.videocard.1
+
+[第三章]NodeJs + VueJs (Express + ElementUI) 全栈开发王者荣耀手机端官网和管理后台 - 第三章
+https://www.bilibili.com/video/BV1S4411W79F?from=search&seid=15878912582654276837
+
+[第四章]NodeJs+VueJs全栈开发王者荣耀官网(Express+ElementUI)
+https://www.bilibili.com/video/BV18t411L7Lg?from=search&seid=15878912582654276837
+
+[第五章]NodeJs+VueJs全栈开发王者荣耀官网(Express+ElementUI)
+https://www.bilibili.com/video/BV17t411N7kQ?from=search&seid=15878912582654276837
